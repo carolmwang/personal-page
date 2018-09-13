@@ -10,7 +10,7 @@ class App extends Component {
           <p>username: cwang</p>
           <p>password: pass</p>
           <div><a href="http://shy-loss.surge.sh">Fetch</a></div>
-          <div><a href="http://wooden-soup.surge.sh/">Points of Interest</a></div>
+          <div><a href="http://substantial-hen.surge.sh/">Points of Interest</a></div>
       </div>
     );
   }
