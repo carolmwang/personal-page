@@ -1,18 +1,32 @@
 import React, { Component } from 'react';
 import './App.css';
+
+import Header from './components/Header';
+import Contact from './components/Contact';
+import About from './components/About';
+import Projects from './components/Projects';
+import Footer from './components/Footer';
+
 class App extends Component {
+  constructor() {
+    super();
+    this.state = {
+      
+    }
+  }
   render() {
     return (
-      <div className="App">
-        <h1>Carol Wang</h1>
-          <div><a href="https://carolmwang.github.io/unit01Project/">Hide &amp; Seek</a></div>
-          <div><a href="https://hidden-bastion-17613.herokuapp.com/auth/login">Park Advisor</a></div>
-          <p>username: cwang</p>
-          <p>password: pass</p>
-          <div><a href="http://shy-loss.surge.sh">Fetch</a></div>
-          <div><a href="http://substantial-hen.surge.sh/">Points of Interest</a></div>
+      <div className="app">
+      <Header />
+      <Contact />
+      <About />
+      <Projects />
+      
+      <Footer />
       </div>
+
     );
   }
 }
+
 export default App;
