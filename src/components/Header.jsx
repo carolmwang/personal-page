@@ -5,10 +5,14 @@ import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 
 export default function Header() {
   return (
-    <section className="hero is-large">
+    <section className="hero">
       <div className="hero-head">
         <nav className="navbar is-fixed-top">
           <div className="container">
+            <div className="navbar-brand">
+              <a className="navbar-item header-name"><strong>Carol Wang</strong></a>
+            </div>
+
             <div className="navbar-menu is-active">
               <div className="navbar-end">
                 <a href="#about" className="navbar-item">ABOUT</a>
@@ -24,12 +28,6 @@ export default function Header() {
             </div>
           </div>
         </nav>
-      </div>
-      <div className="hero-body">
-        <div className="container has-text-centered">
-          <h1 className="title">Carol Wang</h1>
-          <h2 className="subtitle">Web Developer</h2>
-        </div>
       </div>
     </section>
   )

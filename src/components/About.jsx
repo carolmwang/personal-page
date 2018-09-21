@@ -4,7 +4,7 @@ import { faQuoteRight, faQuoteLeft } from '@fortawesome/free-solid-svg-icons'
 
 export default function Footer() {
   return (
-    <section className="section is-large" id="about">
+    <section className="section is-medium" id="about">
       <div className="container has-text-centered">
       <h1 className="headers"><strong>ABOUT ME</strong></h1>
       <br />

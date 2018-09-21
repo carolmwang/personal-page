@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Footer() {
   return (
-    <section className="section is-large" id="projects">
+    <section className="section is-medium" id="projects">
       <div className="container has-text-centered">
       <h1 className="headers">Projects</h1>
 
