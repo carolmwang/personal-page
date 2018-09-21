@@ -5,8 +5,7 @@ import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 
 export default function Header() {
   return (
-    <section className="hero">
-      <div className="hero-head">
+
         <nav className="navbar is-fixed-top">
           <div className="container">
             <div className="navbar-brand">
@@ -28,7 +27,6 @@ export default function Header() {
             </div>
           </div>
         </nav>
-      </div>
-    </section>
+
   )
 }

@@ -4,9 +4,11 @@ export default function Footer() {
   return (
     <section className="section is-medium" id="projects">
       <div className="container has-text-centered">
-      <h1 className="headers">Projects</h1>
+        <h1 className="headers"><strong>PROJECTS</strong></h1>
+        <br />
+        <br />
 
-        <div className="columns is-centered">
+        <div className="columns is-centered projects">
           <div className="column">
             <h1><strong>Hide &amp; Seek</strong></h1>
             <br />
