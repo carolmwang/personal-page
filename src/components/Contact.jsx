@@ -5,8 +5,11 @@ import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons'
 
 export default function Footer() {
  return (
-   <div>
+  <section className="section is-large" id="contact">
+   <div className="container has-text-centered">
+   <h1 className="headers">Contact Me</h1>
      <p><FontAwesomeIcon icon={ faEnvelope } /> carolmwang@gmail.com | <FontAwesomeIcon icon={ faPhone } /> (732)429-3728</p>
    </div>
+   </section>
  ) 
 }
