@@ -29,11 +29,14 @@
   border-bottom: 3px solid black;
   text-align: center;
   margin: auto;
+  font-family: 'Rubik', sans-serif;
+
 }
 
 .header-name {
   font-size: 70px;
   text-align: center;
+  font-family: 'Rubik', sans-serif;
 }
 
 .carol {
@@ -41,8 +44,18 @@
   padding-right: 30px;
 }
 
+.nav {
+  background-color: #cde5fc;
+  font-family: 'Rubik', sans-serif;
+
+}
 .column:hover {
   background-color: #cde5fc;
+}
+
+.project-title {
+  font-family: 'Rubik', sans-serif;
+  font-size: 20px;
 }
 
 @keyframes App-logo-spin {

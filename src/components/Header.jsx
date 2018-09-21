@@ -7,7 +7,7 @@ export default function Header() {
   return (
 
         <nav className="navbar is-fixed-top">
-          <div className="container">
+          <div className="container nav">
             <div className="navbar-brand">
               <a className="navbar-item header-name"><strong>Carol Wang</strong></a>
             </div>
