@@ -55,13 +55,17 @@
 
 .project-title {
   font-family: 'Rubik', sans-serif;
-  font-size: 20px;
+  font-size: 30px;
+  font-style: bold;
 }
 
 .project {
   border: 1px solid;
   margin: 10px;
+  height: 350px;
+  width: 500px;
 }
+
 
 .projects {
   padding-bottom: 10px;
