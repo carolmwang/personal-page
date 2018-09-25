@@ -58,6 +58,15 @@
   font-size: 20px;
 }
 
+.project {
+  border: 1px solid;
+  margin: 10px;
+}
+
+.projects {
+  padding-bottom: 10px;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }

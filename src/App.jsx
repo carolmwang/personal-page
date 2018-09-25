@@ -8,12 +8,6 @@ import Projects from './components/Projects';
 import Footer from './components/Footer';
 
 class App extends Component {
-  constructor() {
-    super();
-    this.state = {
-      
-    }
-  }
   render() {
     return (
       <div className="app">

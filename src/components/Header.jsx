@@ -9,12 +9,11 @@ export default function Header() {
         <nav className="navbar is-fixed-top">
           <div className="container nav">
             <div className="navbar-brand">
-              <a className="navbar-item header-name"><strong>Carol Wang</strong></a>
+              <a className="navbar-item header-name" href='#about'><strong>Carol Wang</strong></a>
             </div>
 
             <div className="navbar-menu is-active">
               <div className="navbar-end">
-                <a href="#about" className="navbar-item">ABOUT</a>
                 <a href="#projects" className="navbar-item">PROJECTS</a>
                 <a href="#contact" className="navbar-item">CONTACT</a>
                 <a href="https://github.com/carolmwang" className="navbar-item">
