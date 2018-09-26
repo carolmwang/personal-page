@@ -2,11 +2,6 @@
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
 .App-header {
   background-color: #222;
   height: 150px;
@@ -45,12 +40,12 @@
 }
 
 .nav {
-  background-color: #cde5fc;
+  background-color: #d9e9f8;
   font-family: 'Rubik', sans-serif;
 
 }
 .column:hover {
-  background-color: #cde5fc;
+  background-color: #d9e9f8;
 }
 
 .project-title {
@@ -62,7 +57,7 @@
 .project {
   border: 1px solid;
   margin: 10px;
-  height: 350px;
+  height: 500px;
   width: 500px;
 }
 
