@@ -12,7 +12,10 @@ export default function About() {
         <div>
           <img src="https://i.imgur.com/PDrVKwsm.png?1" alt="" className="carol"/>
           <p>
-            <FontAwesomeIcon icon={faQuoteLeft} /> I am a web developer, continuously looking for a challenge. My background in Digital Media Analytics has created a foundation for my detail oriented, problem solving skills, and above all, a passion for working with data. Through years of experience in Excel, I am able to tell a story through data that helps higher management make actionable decisions when problems are presented. This skill has led me to web development, where data manipulation is crucial to application performance. I pride myself on my thirst for continuous learning as well as my perseverance in overcoming obstacles. <FontAwesomeIcon icon={faQuoteRight} />
+            <FontAwesomeIcon icon={faQuoteLeft} /> I am a driven web developer with front-end and back-end experience, continuously looking for a challenge. 
+            I have found that nothing satisfies me more than debugging code. 
+            My background in analytics has created a foundation for my detail oriented, problem solving skills, and above all, a passion for working with data. 
+            I pride myself on my thirst for continuous learning as well as my perseverance in overcoming obstacles.  <FontAwesomeIcon icon={faQuoteRight} />
           </p>
         </div>
       </div>
