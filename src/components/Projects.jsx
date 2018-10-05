@@ -39,7 +39,7 @@ export default function Footer() {
         </div>
         <br />
         <div className="columns is-centered">
-          <a href="http://unequaled-profit.surge.sh/" style={{ color: 'black' }}>
+          <a href="http://light-animal.surge.sh/" style={{ color: 'black' }}>
             <div className="column project">
               <h1 className="project-title"><strong>Fetch</strong></h1>
               <br />
