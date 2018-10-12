@@ -12,10 +12,10 @@ export default function About() {
         <div>
           <img src="https://i.imgur.com/PDrVKwsm.png?1" alt="" className="carol"/>
           <p>
-            <FontAwesomeIcon icon={faQuoteLeft} /> I am a driven web developer continuously looking for a challenge. Nothing satisfies me more than identifying and debugging code, 
+            I am a driven web developer continuously looking for a challenge. Nothing satisfies me more than identifying and debugging code, 
             let’s leave the bugs for the entomologists. My background in analytics has created a foundation for my meticulous, problem solving skills, and above all, a passion for structuring data. 
             I have experience with both front and back-end techniques and enjoy the challenges presented by either side. 
-            Web development has taught me perseverance through understanding that failure is the first stop on the road to success.   <FontAwesomeIcon icon={faQuoteRight} />
+            Web development has taught me perseverance through understanding that failure is the first stop on the road to success.
           </p>
         </div>
       </div>

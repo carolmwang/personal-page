@@ -29,7 +29,7 @@
 }
 
 .header-name {
-  font-size: 70px;
+  font-size: 45px;
   text-align: center;
   font-family: 'Rubik', sans-serif;
 }
@@ -40,30 +40,24 @@
 }
 
 .nav {
-  background-color: #d9e9f8;
   font-family: 'Rubik', sans-serif;
 
 }
-.column:hover {
-  background-color: white;
-}
 
-.column {
-  background-color: rgb(226, 226, 226);
-}
 
 .project-title {
   font-family: 'Rubik', sans-serif;
   font-size: 30px;
   font-style: bold;
-  border-bottom: 3px solid black;
 }
 
 .project {
-  border: 1px solid;
   margin: 10px;
-  height: 500px;
-  width: 500px;
+  height: 450px;
+}
+
+.yellow {
+  background-color: #FFF295;
 }
 
 .description {
@@ -74,6 +68,23 @@
 .projects {
   padding-bottom: 10px;
 }
+
+a:hover {
+  color: #FFF295;
+}
+
+button {
+  padding: 10px;
+  background-color: #443C32;
+  color: white;
+  font-size: 13px;
+}
+
+.contact {
+  background-color: #443C32;
+  color: white;
+}
+
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
