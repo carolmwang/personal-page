@@ -10,7 +10,7 @@ export default function Footer() {
         <br />
 
         <div className="container columns project yellow">
-          <div className="column">
+          <div className="column block">
           <br/>
             <h1 className="project-title"><strong>Hide &amp; Seek</strong></h1>
             <br />
@@ -20,16 +20,16 @@ export default function Footer() {
             <br />
             <a href="https://carolmwang.github.io/unit01Project/"><button>Give it a try</button></a>
           </div>
-          <div className="column">
+          <div className="column block">
             <img src="https://i.imgur.com/RTcOgvH.png" alt="" />
           </div>
         </div>
 
         <div className="container columns project">
-          <div className="column">
+          <div className="column block">
             <img src="https://i.imgur.com/aaUCeZa.png" alt="" />
           </div>
-          <div className="column">
+          <div className="column block">
           <br/>
             <h1 className="project-title"><strong>Park Advisor</strong></h1>
             <br />
@@ -45,7 +45,7 @@ export default function Footer() {
         </div>
 
         <div className="container columns project yellow">
-          <div className="column">
+          <div className="column block">
           <br/>
             <h1 className="project-title"><strong>Fetch</strong></h1>
             <br />
@@ -58,16 +58,16 @@ export default function Footer() {
             <br />
             <a href="http://light-animal.surge.sh/"><button>Check it out</button></a>
           </div>
-          <div className="column">
+          <div className="column block">
             <img src="https://i.imgur.com/Au3Uf39.png" alt="" />
           </div>
         </div>
 
         <div className="container columns project">
-          <div className="column">
+          <div className="column block">
             <img src="https://i.imgur.com/7nsXSiD.png" alt="" />
           </div>
-          <div className="column">
+          <div className="column block">
           <br/>
             <h1 className="project-title"><strong>Points of Interest</strong></h1>
             <br />

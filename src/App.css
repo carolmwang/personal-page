@@ -56,6 +56,10 @@
   height: 400px;
 }
 
+.block {
+  display: block;
+}
+
 .yellow {
   background-color: rgba(255, 243, 149, 0.801);
 }
